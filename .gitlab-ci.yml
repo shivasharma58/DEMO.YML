@@ -3,7 +3,6 @@
 <html lang = "en">
 <head>
 <title> JavaScript Calculator </title>
-
 <style>
 h1 {
 	text-align: center;
