@@ -1,2 +1,4 @@
 # DEMO.YML
 TEST
+PWD
+whoami
